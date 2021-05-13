@@ -1,0 +1,52 @@
+.quantitySelectorTitle{
+    font-size: 13px;
+}
+.quantitySelectorTitle{
+    margin: 0 17px 0 0;
+    padding: 0;
+    font-weight: 700;
+    color: black;
+}
+.quantitySelectorContainer{
+    display: flex;
+    -webkit-box-orient: unset;
+    -webkit-box-direction: unset;
+    flex-direction: initial;
+    align-items: center;
+}
+.quantitySelectorStepper{
+    border-radius: 25px;
+    border: 1px solid black;
+    padding: 0 7px;
+}
+.quantitySelectorStepper :global(.vtex-numeric-stepper__plus-button-container){
+    margin: -6px 0 0 0;
+}
+.quantitySelectorStepper :global(.vtex-numeric-stepper-container){
+    height: 20px;
+}
+.quantitySelectorStepper :global(.vtex-numeric-stepper__minus-button-container){
+    margin: -6px 0 0 0;
+}
+.quantitySelectorStepper{
+    height: 25px;
+}
+.availableQuantityContainer {
+    margin: 0 19px;
+}
+.summaryContainer {
+    width: 30%;
+    position: absolute;
+    bottom: 0%;
+  }
+  
+  .summaryContainer .quantitySelectorContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .summaryContainer .quantitySelectorTitle {
+    margin: 0;
+    font-weight: 500;
+  }
