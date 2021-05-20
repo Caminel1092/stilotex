@@ -73,4 +73,15 @@
 .link--linkstexto{
   color: black;
   font-size: 12px;
+  text-decoration: none;
+}
+
+.wrapper--titleCd {
+    margin: 0 auto;
+}
+.heading--titleCd {
+  font-size: 30px;
+  text-transform: uppercase;
+  color: black;
+  padding: 23px 0;
 }

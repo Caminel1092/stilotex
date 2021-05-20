@@ -1,7 +1,7 @@
 {
   "vendor": "pepegangastilotex",
   "name": "theme",
-  "version": "0.0.6",
+  "version": "0.0.5",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
@@ -54,6 +54,9 @@
     "vtex.search-graphql": "0.x",
     "vtex.product-specifications": "1.x",
     "vtex.challenge-tp-condition": "0.x"
+  },
+  "peerDependencies": {
+    "vtex.quickorder": "3.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

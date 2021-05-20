@@ -19,6 +19,8 @@
     },
     "store.custom#vermasc": {
       "path": "/vermasc"
-    }
-
+    },
+    "store.quickorder": {
+      "path": "/quickorder"
   }
+}

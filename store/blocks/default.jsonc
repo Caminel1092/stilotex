@@ -66,7 +66,7 @@
   },
  "flex-layout.col#cantidad":{
    "props":{
-     "width": "30%",
+     "width": "20%",
      "verticalAlign": "middle",
      "blockClass": "cantidadV",
      "paddingLeft": "0px",

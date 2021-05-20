@@ -49,6 +49,12 @@ select{
   color: white;
   padding-top: 160px;
 }
+.box .content--emailAndPassword{
+  max-width: 100%  !important;
+  padding: 0;
+  background: black;
+  color: white;
+}
 .accessCodeOptionBtn :global(.vtex-button__label){
   border-radius: 22px;
   border: 1px solid;
