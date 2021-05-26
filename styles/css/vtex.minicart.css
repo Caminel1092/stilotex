@@ -45,3 +45,6 @@
     border-radius: 17px;
     height: 43px;
 }
+.overlay--visible {
+    background: #00ff996e;
+}

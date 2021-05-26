@@ -85,3 +85,12 @@
   color: black;
   padding: 23px 0;
 }
+.container--helpmesagebulk {
+  padding: 0 40px;
+}
+.link--helpmesagebulk {
+  color: white;
+  font-size: 12px;
+  font-weight: 500;
+  text-decoration: none;
+}
