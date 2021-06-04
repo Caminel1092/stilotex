@@ -213,3 +213,7 @@
 .styledLinkContent--rojoc{
     color: red;
 }
+.submenuWrapper--menuofertas {
+    left: 85%;
+    width: 200px;
+}

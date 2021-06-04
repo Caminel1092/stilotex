@@ -27,8 +27,8 @@
    "store.search#category": {
       "blocks": [        
         "search-result-layout.desktop",
-        "search-result-layout.mobile",
-        "search-not-found-layout"
+        "search-result-layout.mobile"
+
       ],
       "props": {
           "context": {
@@ -41,8 +41,8 @@
     "store.search#brand": {
       "blocks": [        
         "search-result-layout.desktop",
-        "search-result-layout.mobile",
-        "search-not-found-layout"
+        "search-result-layout.mobile"
+
       ],
       "props": {
           "context": {
@@ -55,8 +55,8 @@
     "store.search#department": {
       "blocks": [        
         "search-result-layout.desktop",
-        "search-result-layout.mobile",
-        "search-not-found-layout"
+        "search-result-layout.mobile"
+
       ],
       "props": {
           "context": {
@@ -69,8 +69,8 @@
     "store.search#subcategory": {
       "blocks": [        
         "search-result-layout.desktop",
-        "search-result-layout.mobile",
-        "search-not-found-layout"
+        "search-result-layout.mobile"
+
       ],
       "props": {
           "context": {

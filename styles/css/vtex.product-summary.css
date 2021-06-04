@@ -198,3 +198,6 @@
   position: relative;
 }
 .cantidadC .stretchChildrenWidth:first-child {opacity: 0;}
+.productPriceClass{
+  flex-direction: initial;
+}

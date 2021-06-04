@@ -407,6 +407,51 @@
   background-size: 100%;
   left: 3%;
 }
+.imageElementLink--Marca2::after {
+  content: "ESSENZA, llena de orgullo tu hogar.";
+  top: 0;
+  position: absolute;
+  right: 0;
+  left: 0;
+  text-align: center;
+  color: black;
+}
+.imageElementLink--Marca3::after {
+  content: "MUNCHKIN, tenemos la misión de ser la marca de estilo de vida para bebés más querida del mundo.";
+  top: 0;
+  position: absolute;
+  right: 0;
+  left: 0;
+  text-align: center;
+  color: black;
+}
+.imageElementLink--Marca4::after {
+  content: "VINIBALL, más de 50 años creando ilusión y diversión.";
+  top: 0;
+  position: absolute;
+  right: 0;
+  left: 0;
+  text-align: center;
+  color: black;
+}
+.imageElementLink--Marca5::after {
+  content: "DR.BROWNS, especialistas en nutrición óptima infantil.";
+  top: 0;
+  position: absolute;
+  right: 0;
+  left: 0;
+  text-align: center;
+  color: black;
+}
+.imageElementLink--Marca6::after {
+  content: "JOSEPH, reconocidos por ser la marca líder en diseño funcional.";
+  top: 0;
+  position: absolute;
+  right: 0;
+  left: 0;
+  text-align: center;
+  color: black;
+}
 .imageElement--Marca1, .imageElement--Marca2, .imageElement--Marca3, .imageElement--Marca4, .imageElement--Marca5
 , .imageElement--Marca6{
   margin: 0;

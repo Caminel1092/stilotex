@@ -505,7 +505,7 @@
       //title 3
       "rich-text#title3": {
         "props": {
-          "text": "# Marca Destacada # \n ### ZOOM SPORTS es la marca especializada en deportes que está dando de que hablar ###",
+          "text": "# Marca Destacada #",
           "textAlignment": "CENTER",
           "font": "t-heading-3",
           "textPosition": "CENTER",
@@ -525,18 +525,20 @@
         "showNavigationArrows": "desktopOnly",
         "blockClass": "bannersec"
       },
-      "children": ["image#marcan1", "image#marcan2", "image#marcan3", "image#marcan4", "image#marcan5"
+      "children": [
+        //"image#marcan1",
+        "image#marcan2", "image#marcan3", "image#marcan4", "image#marcan5"
       , "image#marcan6"]
       },
-      "image#marcan1":{
-        "props":{
-          "src":"https://pepegangastilotex.vtexassets.com/arquivos/BANNER-INFERIOR-MARCAS-1.png",
-          "link":{
-            "url":"#"
-          },
-          "blockClass":"Marca1"
-        }
-      },
+      //"image#marcan1":{
+      //  "props":{
+      //    "src":"https://pepegangastilotex.vtexassets.com/arquivos/BANNER-INFERIOR-MARCAS-1.png",
+      //    "link":{
+      //      "url":"#"
+      //    },
+      //    "blockClass":"Marca1"
+      //  }
+      //},
       "image#marcan2":{
         "props":{
           "src":"https://pepegangastilotex.vtexassets.com/arquivos/BANNER-INFERIOR-MARCAS-2.png",

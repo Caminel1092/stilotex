@@ -1802,7 +1802,69 @@
           "tagTitle": "Ofertas Exclusivas",
           "text": "Ofertas Exclusivas"
         }
+      },
+      "blocks": ["vtex.menu@2.x:submenu#ofertas"]
+  },
+  "vtex.menu@2.x:submenu#ofertas": {
+    "children": [
+      "vtex.menu@2.x:menu#ofertas1"
+    ],
+    "props":{
+      "id":"menuprimario",
+      "blockClass":"menuofertas"
+    }
+  },
+  "vtex.menu@2.x:menu#ofertas1": {
+    "children": [
+      "menu-item#ofertas1",
+      "menu-item#ofertas2",
+      "menu-item#ofertas3"
+    ]
+  },
+  "menu-item#ofertas1":{
+    "props": {
+      "blockClass":"oferta", 
+      "id": "menu-item-categoria",
+      "type": "custom",
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/viniball",
+        "noFollow": false,
+        "tagTitle": "Categoría",
+        "text": "viniball"
       }
+    }
+  },
+  "menu-item#ofertas2":{
+    "props": {
+      "blockClass":"oferta", 
+      "id": "menu-item-categoria",
+      "type": "custom",
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/viniball",
+        "noFollow": false,
+        "tagTitle": "Categoría",
+        "text": "viniball"
+      }
+    }
+  },
+  "menu-item#ofertas3":{
+    "props": {
+      "blockClass":"oferta", 
+      "id": "menu-item-categoria",
+      "type": "custom",
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/viniball",
+        "noFollow": false,
+        "tagTitle": "Categoría",
+        "text": "viniball"
+      }
+    }
   },
   "flex-layout.col#spacer": {
     "props": {
