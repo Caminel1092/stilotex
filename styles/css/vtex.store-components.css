@@ -338,8 +338,8 @@
 .imageElementLink--Marca1::before {
   content: "";
   width: 200px;
-  height: 60px;
-  background: url(/arquivos/Logo-Bium-1v1.png)no-repeat;
+  height: 102px;
+  background: url("/arquivos/Logo Zoom-1_Mesa de trabajo 1v1.png")no-repeat;
   background-position: center;
   position: absolute;
   top: 0;
@@ -452,6 +452,16 @@
   text-align: center;
   color: black;
 }
+.imageElementLink--Marca1::after {
+  content: "ZOOM SPORTS, todo en Deporte.";
+  top: 0;
+  position: absolute;
+  right: 0;
+  left: 0;
+  text-align: center;
+  color: black;
+}
+
 .imageElement--Marca1, .imageElement--Marca2, .imageElement--Marca3, .imageElement--Marca4, .imageElement--Marca5
 , .imageElement--Marca6{
   margin: 0;

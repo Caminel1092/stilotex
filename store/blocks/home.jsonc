@@ -526,19 +526,19 @@
         "blockClass": "bannersec"
       },
       "children": [
-        //"image#marcan1",
+        "image#marcan1",
         "image#marcan2", "image#marcan3", "image#marcan4", "image#marcan5"
       , "image#marcan6"]
       },
-      //"image#marcan1":{
-      //  "props":{
-      //    "src":"https://pepegangastilotex.vtexassets.com/arquivos/BANNER-INFERIOR-MARCAS-1.png",
-      //    "link":{
-      //      "url":"#"
-      //    },
-      //    "blockClass":"Marca1"
-      //  }
-      //},
+      "image#marcan1":{
+        "props":{
+          "src":"https://pepegangastilotex.vtexassets.com/arquivos/BANNER-INFERIOR-MARCAS-1.png",
+          "link":{
+            "url":"#"
+          },
+          "blockClass":"Marca1"
+        }
+      },
       "image#marcan2":{
         "props":{
           "src":"https://pepegangastilotex.vtexassets.com/arquivos/BANNER-INFERIOR-MARCAS-2.png",
