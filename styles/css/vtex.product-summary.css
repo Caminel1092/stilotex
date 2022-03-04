@@ -201,3 +201,6 @@
 .productPriceClass{
   flex-direction: initial;
 }
+.priceContainer--newprice {
+  padding-bottom: 23px;
+}
