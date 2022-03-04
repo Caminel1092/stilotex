@@ -123,3 +123,9 @@
 .flexRow--quickc {
   margin: 0 100px 0 100px;
 }
+
+.flexCol--buyc{
+  position: absolute;
+  bottom: -39%;
+  width: 50% !important;
+}

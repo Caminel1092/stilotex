@@ -138,3 +138,6 @@
 .searchResultContainer {
     max-width: 100%;
 }
+.buttonShowMore :global(.vtex-button__label){
+    color: black !important;
+}
