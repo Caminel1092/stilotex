@@ -185,7 +185,10 @@
 .productDescriptionTitle {
   display: none;
 }
-.currencyFraction, .currencyDecimal{
+.currencyFraction:last-child{
+  display: none;
+}
+.currencyDecimal{
   display: none;
 }
 .currencyContainer{

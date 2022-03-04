@@ -3,7 +3,7 @@
   font-size: 12px;
 }
 
-.currencyDecimal, .currencyFraction{
+.currencyDecimal, .currencyFraction:last-child{
   display: none;
 }
 .productBrand{
